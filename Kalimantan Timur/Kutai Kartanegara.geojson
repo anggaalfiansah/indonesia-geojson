@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Kutai Kartanegara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 467, "NAMOBJ": "Kutai Kartanegara", "FCODE": "BA03050040", "REMARK": "", "METADATA": "TASWIL5000020230907KABKOTA", "SRS_ID": "4326", "KDBBPS": "", "KDCBPS": "", "KDCPUM": "", "KDEBPS": "", "KDEPUM": "", "KDPBPS": "", "KDPKAB": "64.02", "KDPPUM": "64", "LUASWH": 26926.494202795828, "TIPADM": 4, "WADMKC": "", "WADMKD": "", "WADMKK": "Kutai Kartanegara", "WADMPR": "Kalimantan Timur", "WIADKC": "", "WIADKK": "", "WIADPR": "", "WIADKD": null, "SHAPE_Length": 26.617624101841756, "SHAPE_Area": 2.1876640150581541 }, "geometry": null }
+]
+}
